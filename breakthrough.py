@@ -81,7 +81,7 @@ clock = pygame.time.Clock()
 screen_width = 1281
 screen_height = 650
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Pong')
+pygame.display.set_caption('Break Through!')
 
 font = pygame.font.SysFont('comicsans', 40)
 
